@@ -16,4 +16,4 @@ Made a skateboard in onshape which consists of 4 parts. These four parts are the
 
 
 ### Reflection
-This assignment was pretty easy except some steps which were confusing.
+This assignment was pretty easy except some steps which were confusing. There were things i've never used before, like offset and use
