@@ -56,3 +56,5 @@
 
 ### Reflection
 This duck was made by using a tool called the mate connector. Snap mode automatically creates a mate when you drag and drop a part onto a different part, snapping the two parts together. This can really speed up the assembly process if you have parts with easy points to mate together. If there are no mate connectors, snap mode will automatically create a mate connector on the first point you click on and create another when you drop it on the other part. *credits to Intro to CAD unit 3
+## Evidence
+![Duck](https://user-images.githubusercontent.com/71407017/140524328-8731634e-4cc3-459b-ad84-fd9622c57477.png)
