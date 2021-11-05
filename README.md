@@ -1,6 +1,7 @@
 # CAD-notebook
 
 ## Skateboard
+## Duck
 
 - Made a skateboard in onshape which consists of 4 parts. 
 - These four parts are the deck, truck baseplate, truck hanger, and a bushing.  
@@ -47,3 +48,11 @@
 - This assignment was pretty easy except some steps which were confusing. 
 - There were things i've never used before, like offset and use. 
 - These different tools made onshape much easier.
+
+
+
+
+## Duck
+
+### Reflection
+This duck was made by using a tool called the mate connector. Snap mode automatically creates a mate when you drag and drop a part onto a different part, snapping the two parts together. This can really speed up the assembly process if you have parts with easy points to mate together. If there are no mate connectors, snap mode will automatically create a mate connector on the first point you click on and create another when you drop it on the other part. *credits to Intro to CAD unit 3
